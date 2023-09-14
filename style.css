@@ -1,0 +1,116 @@
+img{
+    max-width: 100%;
+}
+
+ .navbar-brand{
+    width: 100px;
+ }   
+.wdth{
+    width: 22%;
+}
+ 
+ .text-items span a {
+    text-decoration: none;
+    background-color: #8691fb;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.single-img img{
+    width: 400px;
+   
+}
+.text-items{
+    margin-top: 120px;
+    padding: 20px 0;
+    
+}
+.hero-section{
+    background-color:#f9f9ff ;
+}
+
+.about-content span a{
+    text-decoration: none;
+    background-color: #8691fb;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+/* progress-section */
+
+.progress-section{
+    background-color:#8691fb ;
+}
+.econy-cricle {
+    width: 80px;
+    height: 80px;
+    background-color: #f9f9ff;
+    text-align: center;
+    border-radius: 50%;
+    margin-left: 104px;
+    margin-top: -36px;
+}
+.econy-cricle h3{
+    line-height:80px;
+}
+.econy-item span a {
+    text-decoration: none;
+    border: 2px solid #8892f7;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-top: 22px;
+}
+.item{
+    border: none;
+}
+
+
+.economy-section{
+    background-color: #f6f7fe;
+}
+
+
+/* protfillo-section */
+.portifilo-item img {
+    width: 88px;
+    margin-left: 22px;
+    margin-top: -54px;
+}
+.protifolio-section{
+    padding: 60px;
+    background-color: #ffffff;
+}
+.battonn span a{
+    text-decoration: none;
+    display: inline-block;
+    line-height: 34px;
+    color: rgba(29, 26, 26, 0.978);
+}
+.battonn {
+    width: 88px;
+    margin-left: 100px;
+    height: 34px;
+    border-radius: 5px;
+}
+.contact span a {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #15a2b6;
+    color: white;
+    margin-left: 264px;
+    padding: 6px 15px;
+    border-radius: 5px;
+}
+.memu ul{
+    list-style: none;
+}
+.form-section{
+    background-color: #f9f9ff;
+}
+.memu {
+    margin-top: 192px;
+}
+.footer-section{
+    background-color: #04091d;
+}

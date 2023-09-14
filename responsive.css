@@ -1,0 +1,43 @@
+@media(max-width:1399px){
+    element.style {
+        width: 15rem;
+    }
+    element.style {
+        width: 15rem;
+    }
+    element.style {
+        width: 15rem;
+    }
+    element.style {
+        width: 15rem;
+    }
+    .battonn {
+        width: 88px;
+        height: 34px;
+        border-radius: 5px;
+        margin: auto;
+    }
+    .portifilo-item img {
+        width: 68px;
+        margin-left: 22px;
+        margin-top: -54px;
+    }
+}
+
+@media(max-width:1200px){
+    .card.shadow-lg.item.mt-5 {
+        margin: auto;
+        padding: 20px 0;
+    }
+    element.style {
+        width: 29rem;
+        margin-top: 47px;
+    }
+}
+
+@media(max-width:762px){
+    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+       
+        text-align: center;
+    }
+}
